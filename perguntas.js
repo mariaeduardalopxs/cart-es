@@ -1,15 +1,15 @@
 criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'JavaScript é uma linguagem de programação.'
+    'História',
+    'quem foi o primeiro presidente do brasil?',
+    'marechal Deodoro Da Fonseca.'
     );
     criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris.'
+    'Ciências',
+    'Qual planeta ŕ conhecido como "Planeta Vermelho"?',
+    'Marte.'
     );
     criaCartao(
-    'Matemática',
-    'Quanto é 7 x 8?',
-    '7 x 8 = 56.'
+    'Português',
+    'Qual é o plural de "Flor"',
+    'Flores.'
     );
